@@ -1,6 +1,6 @@
 package:
   name: console_shortcut_anacondapro
-  version: 0.1.1
+  version: 0.1.2
 
 build:
   number: 3
